@@ -24,3 +24,5 @@ The subdomain containing restricted content is non-indexable by search engines t
 
 Extra info:
 The users with the same username and emailadress to be able to register more than once so they can get more than one label. And get access to more than one paid content page.
+
+P.S: How to create the plugin ZIP file, a testing & running report, and a demo video (https://drive.google.com/file/d/1mr1VhNJKH-rRAKFACREMmBWUs5gvzsXY/view?usp=drive_link)
